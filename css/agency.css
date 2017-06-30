@@ -6,6 +6,13 @@
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #F3E4CF;
+}
+
+
+mark {
+    background-color: yellow;
+    color: black;
 }
 .text-muted {
   color: #777777;
@@ -50,7 +57,7 @@ h6 {
   margin: 0 auto;
 }
 .bg-light-gray {
-  background-color: #eeeeee;
+  background-color: #A0A273;
 }
 .bg-darkest-gray {
   background-color: #222222;
@@ -147,8 +154,10 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 
-
-
+.navbar-default{
+  background-color: #F8F6E1;
+  border-color:#F8F6E1;
+}
 
 
 
@@ -481,8 +490,8 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222222;
-  background-image: url('../img/color.gif');
+  background-color: #758467;
+  /*background-image: url('../img/color.gif');*/
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -662,6 +671,11 @@ ul.social-buttons li a:active {
   margin-right: 250px;
   margin-bottom: 25px;
 }
+
+
+
+
+
 ::-moz-selection {
   text-shadow: none;
   background: #fed136;
