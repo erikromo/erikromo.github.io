@@ -11,7 +11,7 @@ body {
 
 
 mark {
-    background-color: yellow;
+    background-color: #F8F6E1;
     color: black;
 }
 .text-muted {
@@ -519,30 +519,30 @@ section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: black;
 }
 section#contact :-moz-placeholder {
   /* Firefox 18- */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: black;
 }
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: black;
 }
 section#contact :-ms-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: black;
 }
 section#contact .text-danger {
-  color: #e74c3c;
+  color: black;
 }
 footer {
   padding: 25px 0;
@@ -692,5 +692,4 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #fed136;
-
 

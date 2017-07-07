@@ -1,0 +1,41 @@
+ #pencil{
+ 	margin:50px 100px 25px 150px;
+ }
+
+ 
+
+#description{
+    font-family:'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;  
+	text-align: center;  // Changed
+	
+    }
+#label{
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+  	color: #000000;    
+  	text-align: center;
+  	text-decoration: underline;
+  	margin-top:60px;
+    margin-bottom:25px;
+     
+  	// Changed
+    } 
+
+    #bullet{
+      font-family:'Roboto Condensed', sans-serif;
+      font-size: 20px;
+      line-height: 20px;
+      color: black ;
+      text-align: center;
+    }
+
+
+
+    #tag{
+      text-align: center;
+      color: black;
+      font-family:'Roboto Condensed', sans-serif;
+    }
