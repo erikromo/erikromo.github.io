@@ -19,11 +19,13 @@ body {
 
 .content-section-heading h2 {
   font-size: 3rem;
+  color: #fff;
 }
 
 .content-section-heading h3 {
   font-size: 1rem;
   text-transform: uppercase;
+  color: #fff;
 }
 
 h1,
@@ -33,6 +35,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  color: #fff;
 }
 
 .text-faded {
@@ -257,11 +260,14 @@ h6 {
 .portfolio-item .caption .caption-content h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
+  color: #fff;
+
 }
 
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
   font-size: 1.2rem;
+  color: #fff;
 }
 
 @media (min-width: 992px) {
